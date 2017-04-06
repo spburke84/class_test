@@ -1,0 +1,45 @@
+body {
+    background-image: url("tommytrash.jpg");
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-attachment: fixed;
+    background-position: bottom;
+    background-position-x: right;   
+    background-size: 750px 750px;
+}
+
+#header {
+    background-color: powderblue;
+    color: darkslateblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+    font-size: 72px;
+}
+
+h3 {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bio {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif: ;
+    color: black;
+
+    width: 1300px;
+}
+
+ul {
+    color: darkslateblue;
+}
+
+.link {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
